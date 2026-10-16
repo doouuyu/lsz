@@ -1,0 +1,34 @@
+[Unit]
+Description=LiShiZhen Intelligent Doctor Backend (FastAPI)
+After=network.target
+
+[Service]
+Type=simple
+# 部署用户：代码在 /root/taoism 下，用 root 运行（www 用户无权访问 /root）
+User=root
+Group=root
+WorkingDirectory=/root/taoism/backend
+
+# 让 sentence-transformers 走国内镜像下载 embedding 模型，并缓存到固定目录
+Environment=HF_ENDPOINT=https://hf-mirror.com
+Environment=HF_HOME=/root/taoism/hf_cache
+Environment=PYTHONUNBUFFERED=1
+
+# gunicorn + uvicorn worker。
+# 必须 --workers 1：会话/舌诊任务/化验单结果都存进程内内存字典（见 services/session.py 等），
+# 多 worker 会让同一用户的请求落到不同进程而丢状态。要扩多 worker 须先把这些改 Redis。
+# 单 worker 也省内存：embedding 模型+向量库只加载一份。
+ExecStart=/root/taoism/backend/.venv/bin/gunicorn app.main:app \
+    --workers 1 \
+    --worker-class uvicorn.workers.UvicornWorker \
+    --bind 127.0.0.1:8000 \
+    --timeout 300 \
+    --graceful-timeout 30 \
+    --access-logfile - \
+    --error-logfile -
+
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

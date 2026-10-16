@@ -1,0 +1,1 @@
+- [老年模式 CSS 架构](elder-mode-css.md) — 两套 CSS、.gf-elder 根类、禁止嵌套 var() 的 WXSS 坑

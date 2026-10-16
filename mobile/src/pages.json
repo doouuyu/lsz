@@ -1,0 +1,59 @@
+{
+	"easycom": {
+		"autoscan": true,
+		"custom": {
+			"^wd-(.*)": "wot-design-uni/components/wd-$1/wd-$1.vue",
+			"^gf-(.*)": "@/components/gf-$1/gf-$1.vue"
+		}
+	},
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "李时珍智能医师"
+			}
+		},
+		{
+			"path": "pages/diagnose/index",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "仿真辨证"
+			}
+		},
+		{
+			"path": "pages/seasonal/index",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "四时养生"
+			}
+		},
+		{
+			"path": "pages/organ/index",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "五脏调养"
+			}
+		},
+		{
+			"path": "pages/chronic/index",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "慢病助手"
+			}
+		},
+		{
+			"path": "pages/knowledge/index",
+			"style": {
+				"navigationStyle": "custom",
+				"navigationBarTitleText": "知识检索"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "李时珍智能医师",
+		"navigationBarBackgroundColor": "#F3ECDD",
+		"backgroundColor": "#F3ECDD"
+	}
+}

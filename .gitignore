@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# Environment
+.env
+*.env.local
+
+# Data (large files)
+*.epub
+backend/data/chroma/
+backend/data/*.db
+backend/data/reports/
+backend/data/consultation_tmp/
+backend/data/consultation_logs/
+
+# Node
+node_modules/
+dist/
+.nuxt/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db

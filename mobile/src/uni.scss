@@ -1,0 +1,70 @@
+/* ============================================================
+   李时珍智能医师 · 移动端设计 token（与 PC 端统一）
+   双表面：古籍宣纸面（默认） + 藏青深色数据面（局部）
+   事实来源：docs/UI设计规范.md
+   说明：uni.scss 由 uni-app 自动注入到每个组件，组件内可直接使用以下 $ 变量。
+   ============================================================ */
+
+/* —— 古籍面 —— */
+$paper:         #F3ECDD; // 宣纸底
+$paper-card:    #FBF7EE; // 卡片（略亮暖白）
+$paper-sunken:  #ECE2CE; // 凹陷区 / 次级底
+$ink:           #1F1B16; // 主文字（墨）
+$ink-2:         #5C5345; // 次文字
+$ink-3:         #8A7E6A; // 辅助 / 占位
+$cinnabar:      #9A2D2D; // 朱砂 —— 主强调 / 印章 / 主 CTA
+$cinnabar-soft: #B5463F; // 朱砂浅（hover / 按下）
+$gold:          #C8A45C; // 金 —— 分隔 / 点缀 / 君药
+$gold-soft:     #D8BC84;
+$dai-qing:      #34505C; // 黛青 —— 次强调 / 链接
+$border-paper:  rgba(31, 27, 22, 0.12);
+
+/* —— 藏青数据面 —— */
+$navy:          #1F3A5F; // 深色底
+$navy-2:        #16293F; // 更深（画布 / 凹陷）
+$navy-card:     #24405F; // 深色卡片
+$on-navy:       #EAF0F6; // 深色上的主文字
+$on-navy-2:     #9FB2C8; // 深色上的次文字
+$jade:          #5FB3A1; // 玉色 —— 置信 / 成功
+$hl-path:       #F59E0B; // 橙 —— 图谱高亮路径
+
+/* —— 几何与阴影 —— */
+$radius:        24rpx; // 卡片 12px
+$radius-sm:     16rpx; // 按钮 8px
+$shadow:        0 8rpx 32rpx rgba(31, 27, 22, 0.10);
+$shadow-navy:   0 16rpx 56rpx rgba(11, 22, 38, 0.35);
+
+/* —— 字体 —— */
+/* 小程序无法加载远程字体，标题退化到系统宋体（Songti/STSong），正文用系统无衬线 */
+$font-serif:    "Songti SC", "STSong", "Source Han Serif SC", serif;
+$font-sans:     -apple-system, "PingFang SC", "Source Han Sans SC", "Helvetica Neue", sans-serif;
+
+/* ============================================================
+   兼容 uni-app / 插件市场内置变量（保留默认键，取我们的色板）
+   ============================================================ */
+$uni-color-primary: $cinnabar;
+$uni-color-success: $jade;
+$uni-color-warning: $gold;
+$uni-color-error:   $cinnabar;
+
+$uni-text-color:             $ink;
+$uni-text-color-inverse:     $paper-card;
+$uni-text-color-grey:        $ink-3;
+$uni-text-color-placeholder: $ink-3;
+$uni-text-color-disable:     #c0c0c0;
+
+$uni-bg-color:       $paper-card;
+$uni-bg-color-grey:  $paper;
+$uni-bg-color-hover: $paper-sunken;
+$uni-bg-color-mask:  rgba(31, 27, 22, 0.45);
+
+$uni-border-color: $border-paper;
+
+$uni-font-size-sm:   28rpx;
+$uni-font-size-base: 32rpx; // 16px 适老下限
+$uni-font-size-lg:   36rpx;
+
+$uni-border-radius-sm:     $radius-sm;
+$uni-border-radius-base:   $radius-sm;
+$uni-border-radius-lg:     $radius;
+$uni-border-radius-circle: 50%;

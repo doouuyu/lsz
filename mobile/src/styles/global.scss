@@ -1,0 +1,176 @@
+/* ============================================================
+   全局样式（App.vue 引入 -> 编译为 app.wxss，全页面生效）
+   双表面通用类。uni.scss 的 $token 已自动注入，可直接使用。
+   类名统一 gf- 前缀，避免与 wot-design-uni 冲突。
+   ============================================================ */
+
+/* 老年版（仿真辨证 dxe-* 组件）统一 token：.dxe 命名空间，独立于 .gf-elder */
+@import "./elder.scss";
+
+/* ============================================================
+   老年模式 —— 两套 CSS 方案
+   ------------------------------------------------------------
+   设计原则：正常模式 100% 保持原样；老年模式是一套独立覆盖（.gf-elder 作用域），
+   可改尺寸/间距/布局（如多列改单列），但不改风格——宣纸/古籍/朱砂/印章/宋体全保留。
+   .gf-elder 由各页根节点动态注入（见 composables/useElder），其后代（含内联 wd-popup
+   弹窗，项目未启用 root-portal）继承下列字号 token 与版式。
+
+   重要实现约束：token 用「单层 var」——常规值挂 page，老年值挂 .gf-elder 直接给具体数，
+   绝不写 calc() 里再嵌 var() 的两层引用（部分小程序 WXSS 不会对其逐元素重求值，会失效）。
+   ============================================================ */
+page {
+	--gf-fs-sm: 28rpx; // 辅助
+	--gf-fs-base: 32rpx; // 正文（16px 适老下限）
+	--gf-fs-lg: 36rpx; // 强调
+	--gf-fs-title: 44rpx; // 页面大标题
+	--gf-fs-nav: 34rpx; // 导航栏标题
+	--gf-lh: 1.65; // 行距
+}
+/* 老年模式 token 覆盖（具体值，单层；各页/组件文本经 var(--gf-fs-*) 即随之放大） */
+.gf-elder {
+	--gf-fs-sm: 34rpx;
+	--gf-fs-base: 42rpx; // 16 → 21px
+	--gf-fs-lg: 50rpx;
+	--gf-fs-title: 60rpx;
+	--gf-fs-nav: 42rpx;
+	--gf-lh: 1.85;
+	/* 在老年子树根重新确立正文字号/行距，使「未显式设字号」的文本也随之放大 */
+	font-size: var(--gf-fs-base);
+	line-height: var(--gf-lh);
+	letter-spacing: 0.5rpx;
+}
+
+page {
+	background:
+		radial-gradient(circle at 18% 12%, rgba(200, 164, 92, 0.06), transparent 42%),
+		radial-gradient(circle at 82% 88%, rgba(154, 45, 45, 0.04), transparent 40%),
+		$paper;
+	color: $ink;
+	font-family: $font-sans;
+	font-size: var(--gf-fs-base);
+	line-height: var(--gf-lh);
+}
+
+/* ===== 老年模式 · 共享组件重设计基线（具体值覆盖） ===== */
+.gf-elder {
+	.gf-card {
+		padding: 40rpx;
+		border-radius: 28rpx;
+	}
+	.gf-seal {
+		width: 76rpx;
+		height: 76rpx;
+		border-radius: 18rpx;
+		font-size: 40rpx;
+	}
+	.gf-btn {
+		min-height: 116rpx; // 更大触控目标（≥58px）
+		padding: 0 64rpx;
+		font-size: var(--gf-fs-lg);
+		border-radius: 20rpx;
+	}
+	.gf-divider {
+		height: 2rpx;
+		opacity: 0.7;
+		margin: 40rpx 0;
+	}
+	.gf-page-subtitle {
+		margin-top: 10rpx;
+	}
+}
+
+/* ===== 古籍卡片 ===== */
+.gf-card {
+	background: $paper-card;
+	border: 1px solid $border-paper;
+	border-radius: $radius;
+	box-shadow: $shadow;
+	padding: 32rpx;
+	box-sizing: border-box;
+}
+
+/* ===== 藏青深色数据面 ===== */
+.gf-navy {
+	background:
+		radial-gradient(circle at 20% 0%, rgba(95, 179, 161, 0.10), transparent 45%),
+		linear-gradient(160deg, $navy 0%, $navy-2 100%);
+	color: $on-navy;
+	border-radius: $radius;
+	box-shadow: $shadow-navy;
+}
+.gf-navy .gf-title,
+.gf-on-navy { color: $on-navy; }
+.gf-on-navy-2 { color: $on-navy-2; }
+
+/* ===== 印章序号圆标（朱砂底白字方圆角） ===== */
+.gf-seal {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	width: 56rpx;
+	height: 56rpx;
+	border-radius: 14rpx;
+	background: $cinnabar;
+	color: $paper-card;
+	font-family: $font-serif;
+	font-weight: 600;
+	font-size: 30rpx;
+	box-shadow: inset 0 0 0 1px rgba(251, 247, 238, 0.35);
+	flex-shrink: 0;
+}
+
+/* ===== 水墨分隔线（渐隐金/墨横线） ===== */
+.gf-divider {
+	height: 1px;
+	border: none;
+	background: linear-gradient(90deg, transparent, $gold 18%, $gold 82%, transparent);
+	opacity: 0.55;
+	margin: 32rpx 0;
+}
+
+/* ===== 标题 / 文本强调 ===== */
+.gf-serif { font-family: $font-serif; }
+.gf-tnum  { font-variant-numeric: tabular-nums; }
+.gf-gold  { color: $gold; }
+.gf-cinnabar { color: $cinnabar; }
+.gf-ink-2 { color: $ink-2; }
+.gf-ink-3 { color: $ink-3; }
+
+.gf-page-title {
+	font-family: $font-serif;
+	font-size: var(--gf-fs-title);
+	font-weight: 700;
+	color: $ink;
+	letter-spacing: 1rpx;
+}
+.gf-page-subtitle {
+	font-size: var(--gf-fs-sm);
+	color: $ink-2;
+	margin-top: 6rpx;
+}
+
+/* ===== 主 CTA（朱砂实心）/ 次按钮（描边） ===== */
+.gf-btn {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 88rpx; // ≥44px 触控目标
+	padding: 0 56rpx;
+	border-radius: $radius-sm;
+	font-size: var(--gf-fs-base);
+	font-family: $font-sans;
+	box-sizing: border-box;
+}
+.gf-btn-primary {
+	background: $cinnabar;
+	color: $paper-card;
+}
+.gf-btn-primary:active { background: $cinnabar-soft; }
+.gf-btn-ghost {
+	background: transparent;
+	color: $cinnabar;
+	border: 1px solid $cinnabar;
+}
+
+/* ===== 通用工具 ===== */
+.gf-safe-bottom { padding-bottom: env(safe-area-inset-bottom); }

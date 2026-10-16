@@ -1,0 +1,2502 @@
+[
+  {
+    "text": "甘草",
+    "weight": 3,
+    "lang": "zh"
+  },
+  {
+    "text": "食疗药膳",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "单味药",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "四时养生",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "经典古方",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "茯苓",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "山药",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "消渴",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肝肾阴虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "经典方",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "经典名方",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "起居功法",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "人参",
+    "weight": 3,
+    "lang": "zh"
+  },
+  {
+    "text": "临床常用方",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "黄芪",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "草部",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "食疗",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "远志",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "病机理论",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "当归",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "活血",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "眩晕",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "安神",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "丹参",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "高血压",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "土茯苓",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "中风",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "山茱萸",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "牛膝",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "生姜",
+    "weight": 3,
+    "lang": "zh"
+  },
+  {
+    "text": "熟地黄",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "白术",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "气阴两虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "胸痹",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "健忘",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "麦冬",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "枸杞",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "补肾",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肝阳上亢",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "老年",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "心肾不交",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "附子",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "泽泻",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "单味药材",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "枸杞子",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "气滞血瘀",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "脾胃虚弱",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "川芎",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "痹证",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "耳鸣",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "滋阴",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "粳米",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肾精不足",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "桂枝",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "泄泻",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "清热",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "白芍",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "杜仲",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "蜂蜜",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "郁证",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "土当归",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "生地黄",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "咳喘",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "整体观",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "气虚血瘀",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "祛风",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "便秘",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "利水",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "半夏",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "大枣",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "整体观念",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "治法",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "治疗原则",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "阴虚火旺",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "风寒湿痹",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "五味子",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "化痰",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "补气",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "不寐",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "干姜",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "益气",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肝肾不足",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "金石水土部",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "健脾",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "天麻",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "通络",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "温阳",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "知母",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "茶饮",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "脾肾阳虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "慢阻肺",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "散寒",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "地黄",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "淋证",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "牡蛎",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "木部果部药材",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "牡丹皮",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "虚劳",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "阿胶",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "细辛",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "脾虚湿盛",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "黄芩",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "润肺",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "老年病",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "骨碎补",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "心火亢盛",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "桔梗",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "水肿",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "膀胱湿热",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "药对",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "瘀血阻络",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "防风",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "心脾两虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "滑石",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "解毒",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "冠心病",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "扶正祛邪类治法",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "药对配伍方",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "陈皮",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "麻黄",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "黄连",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "湿热下注",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "石菖蒲",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "祛湿",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "糖尿病",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "止痛",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "气血两虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "脾胃气虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "脾胃虚寒",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "菊花",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "前胡",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "大黄",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "款冬花",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "湿热内蕴",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "百部",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "酸枣仁",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "明目",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "止咳",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "痴呆",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肾虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "药膳",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "养阴",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "强筋骨",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "百合",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "滋补肝肾",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "痰热壅肺",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肉苁蓉",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "阴虚燥热",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "养血",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "寒饮伏肺",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "活血化瘀",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "脏腑辨证",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "行气",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "补肝肾",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "心神不宁",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "慢性肾病",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "独活",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "芍药",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "解郁",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "阴虚阳亢",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "柴胡",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "温中",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "温肺",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肝气郁结",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "草部药材",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "薏苡仁",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "通淋",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "清心",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "炙甘草",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肉桂",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肝火上炎",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "血虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "起居养生",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "郁金",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "寒湿痹阻",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "水湿内停",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "番红花",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "白酒",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肾阳虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "血瘀",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "补脾",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "降气",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "杏仁",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "食疗验方",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "情志养生",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "扶正",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "玄参",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "石斛",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "粥品",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肝肾亏虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肝肾阴虚证",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肺气虚寒",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肾阴亏虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "中气下陷",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "何首乌",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "厚朴",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "学术思想",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "延年",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "抗衰老",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "栀子",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "热淋",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "老年养生",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "起居",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "除湿",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "黄精",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "养生",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "冬藏",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "桃仁",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "气虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "血瘀证",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "阴虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "和血",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "生津",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "生脉散",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "病机",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "益智",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "红花",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肺肾阴虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "营卫不和",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "体质学说",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "功效记载",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "延胡索",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "心血瘀阻",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "春季",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "润肠",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "湿热毒蕴",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "痰浊阻肺",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "石膏",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "续断",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "缓急",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肝郁脾虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肾精亏虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肾阳虚衰",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "药性分析",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "钩藤",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "阴虚内热",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "风痰阻络",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "冬季",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "升阳",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "升麻",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "夏枯草",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "导引",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "春生",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "木香",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "枳壳",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "檀香",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "湿热",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "湿热痹阻",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "石韦",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "砂仁",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "精血不足",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "羌活",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "薄荷",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "调和",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "调和阴阳",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "辨证法",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "黄柏",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "土当归酒",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "宣肺",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "木部果部",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "润燥",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "滋补",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "滋阴降火",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "猪肾",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "秋收",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "秦艽",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肝郁气滞",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肺胃热盛",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肾阴虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "补血",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "赤芍",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "通窍",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "防己",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "风寒束肺",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "三七",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "中气不足",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "六味地黄丸",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "凉血",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "利湿",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "夏长",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "威灵仙",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "寒热错杂",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "平喘",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "平肝潜阳",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "沉香",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "海金沙",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "湿困脾胃",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "湿热蕴结",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "猪苓",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "疏肝",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "痰瘀互结",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "瘀血痹阻",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "白前",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "益气养阴",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肾气不固",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "脾肾两虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "葱白",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "虫兽禽鱼部",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "调和阴阳类治法",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "固表",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "夏季",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "失眠",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "按摩",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "桑寄生",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "槟榔",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "气滞",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "气虚证",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "气血不足",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "瘀血内阻",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "石决明",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "石淋",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "秋季",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肝阳上亢证",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肺阴亏虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肾精不足证",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "药酒",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "黄芪桂枝五物汤",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "龙骨",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "代赭石",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "体质调养",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "土茯苓汤",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "地骨皮",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "外用",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "寒凝心脉",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "射干",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "平肝",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "枳实",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "柏子仁",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "气血津液",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "痰浊蒙窍",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "痰湿内阻",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肝郁化火",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肺阴虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "脾胃",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "腰痛",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "茯神",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "荆芥",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "补益",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "衰弱综合征",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "丸散膏丹",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "久咳",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "六经辨证",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "养心",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "内治外治结合",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "内治外治结合类治法",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "冰糖",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "固肾",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "外用洗敷方",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "引血下行",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "息风",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "旋覆花",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "木瓜",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "标本缓急类治法",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "气滞便秘",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "气阴两虚证",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "淡竹叶",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "清热利湿",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "渗湿",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "炮制与用法特殊",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "燥湿",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "琥珀",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "精血亏虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "老年便秘",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肉豆蔻",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肝肾",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肺胃阴虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "脾气虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "脾肾气虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "脾虚湿困",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "药对配伍分析",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "菖蒲",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "补虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "阴阳两虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "降压",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "风湿痹阻",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "风邪入络",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "食疗药治结合类治法",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "饮食养生",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "鸡子黄",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "天花粉",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "天麻钩藤饮",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "干地黄",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "情志",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "止呕",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "气血两虚证",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "甘草干姜汤",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "祛风湿",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "紫菀",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "老年痹证",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肺气上逆",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肺热津伤",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "脾胃虚寒证",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "葛根",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "血淋",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "血虚证",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "赤小豆",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "车前子",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "通便",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "阳明腑实",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "风湿阻络",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "风痰上扰",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "香附",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "鸡肉",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "龟板",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "交通心肾",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "利尿",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "利水消肿",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "功法",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "叩齿",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "和中",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "固脱",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "地黄饮子",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "夏季养生",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "天冬",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "山药粥",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "心气不足",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "心神失养",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "春季养生",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "气虚水停",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "气虚血瘀证",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "气血",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "津亏肠燥",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "清肺",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "炮制",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "甘草泻心汤",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "白虎加人参汤",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "益肺",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "羊肉",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肺气虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肺燥津伤",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肾阳虚证",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "胃热炽盛",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "胜湿",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "药膳食疗",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "血虚血瘀",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "补益法",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "降火",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "风邪",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "中风后遗症",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "丹参饮",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "人参养荣汤",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "养肝",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "冬藏补肾",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "化瘀",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "半夏厚朴汤",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "吴茱萸",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "天王补心丹",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "寒湿困脾",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "山楂",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "巴戟天",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "平肝熄风",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "开心散",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "开窍",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "心阴虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "急则治标",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "朱砂",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "枸杞叶",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "气虚不固",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "气虚便秘",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "清阳不升",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "温补",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "独活寄生汤",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "甘草梢",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "痰浊壅肺",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "痰湿阻肺",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "瘀热互结",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "祛邪",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "缓急止痛",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肝血不足",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "肾气虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "胃阴虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "脾肺气虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "萆薢",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "薯蓣丸",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "虫兽禽鱼部药材",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "补中",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "补中益气",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "补骨脂",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "上热下寒",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "下气",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "介部",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "关节炎",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "冬季养生",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "利水通淋",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "合欢皮",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "土茯苓薏米粥",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "地龙",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "增液汤",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "外治法",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "平肝息风",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "心气虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "心肺阴虚",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "心肾不交证",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "散结",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "木通",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "木部",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "杞菊地黄丸",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "标本同治",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "桔梗汤",
+    "weight": 4,
+    "lang": "zh"
+  },
+  {
+    "text": "气滞血瘀证",
+    "weight": 4,
+    "lang": "zh"
+  }
+]
